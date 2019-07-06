@@ -10,6 +10,12 @@ EatWat is a simple food finder that is built with React Native. It was created t
 
 ![eatwat](https://github.com/mevCJ/Project-List/blob/master/screenshots/eatwat.jpg "eatwat")
 
+### Article Validator - A WordPress plugin for article author to improve article genuineness
+
+Article Validator is a wordpress plugin powered by [FakeBox](https://machinebox.io/docs/fakebox) to diminish the effect of fake news.
+
+![wpav](https://github.com/mevCJ/Project-List/blob/master/screenshots/wp_article_validator.jpg)
+
 ### Genetic Algorithm Visualizer (Travelling Salesman Problem)
 
 A simple Windows Form Application that visualizes the process of genetic algorithm.
