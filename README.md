@@ -10,9 +10,9 @@ EatWat is a simple food finder that is built with React Native. It was created t
 
 ![eatwat](https://github.com/mevCJ/Project-List/blob/master/screenshots/eatwat.jpg "eatwat")
 
-### Article Validator - A WordPress plugin for article author to improve article genuineness
+### preVision - A WordPress plugin for article author to improve article genuineness
 
-Article Validator is a wordpress plugin powered by [FakeBox](https://machinebox.io/docs/fakebox) to diminish the effect of fake news.
+preVision is a wordpress plugin powered by [FakeBox](https://machinebox.io/docs/fakebox) and [webhose](https://webhose.io/) to diminish the effect of fake news. This project is developed by a team of three during Break The Fake hackathon and won the third place.
 
 ![wpav](https://github.com/mevCJ/Project-List/blob/master/screenshots/wp_article_validator.jpg)
 
