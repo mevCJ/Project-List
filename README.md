@@ -2,6 +2,11 @@
 List of personal projects/college assignment that I had done and the projects that I planned to do. Most of these projects are simple widgets that might comes in handy in daily life. Part of the projects are mobile games developed with Unity.
 
 ## Completed
+### Kuching Tour Guide
+An assignment project on Mobile Application Development (React Native). Allows user to search for food, point-of-interests and places to stay in Kuching.
+
+![tourGuide](https://github.com/mevCJ/Project-List/blob/master/screenshots/tourGuide.jpg)
+
 ### EatWat - An Android app that decides a place to eat
 
 EatWat is a simple food finder that is built with React Native. It was created to help users to decide where to eat when they are indecisive. The app is currently a prototype and it might be updated in the future.
