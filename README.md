@@ -16,13 +16,6 @@ preVision is a wordpress plugin powered by [FakeBox](https://machinebox.io/docs/
 
 ![wpav](https://github.com/mevCJ/Project-List/blob/master/screenshots/wp_article_validator.jpg)
 
-### Genetic Algorithm Visualizer (Travelling Salesman Problem)
-
-A simple Windows Form Application that visualizes the process of genetic algorithm.
-
-[Repo Link](https://github.com/mevCJ/Genetic-Algorithm-Visualizer)
-
-![gav](https://github.com/mevCJ/Genetic-Algorithm-Visualizer/blob/master/Graph_t/Ss.png)
 
 ### Laravel Shopping Mall Directory
 
@@ -31,6 +24,14 @@ An assignment project on Web Application Development. Laravel framework is utili
 [Repo Link](https://github.com/mevCJ/Shopping-Mall-Directory)
 
 ![smd](https://raw.githubusercontent.com/mevCJ/Shopping-Mall-Directory/master/screenshot.jpg)
+
+### Genetic Algorithm Visualizer (Travelling Salesman Problem)
+
+A simple Windows Form Application that visualizes the process of genetic algorithm.
+
+[Repo Link](https://github.com/mevCJ/Genetic-Algorithm-Visualizer)
+
+![gav](https://github.com/mevCJ/Genetic-Algorithm-Visualizer/blob/master/Graph_t/Ss.png)
 
 ### Shrink - An Android Game
 
@@ -65,11 +66,3 @@ Hood is a social app that aims to help residents of a neighbourhood to familiari
 
 Summarizer is an application that assist investor in recording trading activities. *this project is partially completed*
 
-## Planned to do
-* Untitled Alarm App
-
-An alarm app that requires user to shake the phone for a period to mute the alarm. Will be developed using Unity.
-
-* Desktop Notes
-
-A windows application that allows users to add notes on their desktop wallpaper. The application will allow user to modify their desktop directly and save it as new wallpaper. An alternate approach to put notes on Desktops besides Sticky Notes.
